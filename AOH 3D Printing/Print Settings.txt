@@ -1,5 +1,13 @@
 jungle hat with strap large ring.stl
-0.16mm, scale model uniformly to 2000%
+scale model uniformly to 2000%
+layer height 0.2 mm
+support structure tree
+support overhang 60.0
+adhesion type skirt
 
-alice pack logo.stl
-0.2mm, scale model uniformly to 2500%
+alice pack hook.stl
+scale model uniformly to 2500%
+layer height 0.16 mm
+no supports
+adhesion type skirt
+Pause at layer 241
