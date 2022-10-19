@@ -1,13 +1,19 @@
-jungle hat with strap large ring.stl
+jungle hat with strap small hole
 scale model uniformly to 2000%
 layer height 0.2 mm
 support structure tree
 support overhang 60.0
-adhesion type skirt
+adhesion type brim
 
 alice pack hook.stl
 scale model uniformly to 2500%
-layer height 0.16 mm
+layer height 0.12 mm
 no supports
-adhesion type skirt
-Pause at layer 241
+adhesion type brim
+
+face.stl
+scale model uniformly to 300%
+layer height 0.12 mm
+support structure tree
+support overhang 60.0
+adhesion type brim
